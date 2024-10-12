@@ -24,8 +24,8 @@ This project is a backend application built using **Node.js**, **Express**, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/project-payment-management-backend.git
-   cd project-payment-management-backend
+   git clone https://github.com/vrajpatel0007/project-payment-management.git
+   cd project-payment-management
    ```
 
 2. Install dependencies:
