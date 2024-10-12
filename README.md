@@ -1,5 +1,3 @@
-Here’s the `README.md` file for your project:
-
 ```md
 # Project and Payment Management Backend
 
