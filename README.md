@@ -1,4 +1,4 @@
-```md
+
 # Project and Payment Management Backend
 
 This project is a backend application built using **Node.js**, **Express**, and **MongoDB**. It supports basic project and payment management functionalities with user authentication using **JWT**. The project also includes CSV import/export functionality for bulk project management.
